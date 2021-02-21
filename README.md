@@ -11,6 +11,14 @@ mosquito surge como proyecto a mediados de junio de 2020. Bot, scrapper y analis
 * Izquierda Diario
 * Perfil
 
+### Implementación
+
+Para la implementación del mosquito se utilizó JupyterNotebook y GoogleCollab. Las imágenes fueron alojadas en ImgBB. 
+
+### Perfil de twitter del bot
+
+https://twitter.com/BotMosquito
+
 ## Equipo
 
 * [Franco Colombini](https://github.com/frankeee)
