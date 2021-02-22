@@ -9,7 +9,7 @@ mosquito surge como proyecto a mediados de junio de 2020. Bot, scrapper y analis
 * Clarín
 * La Nación
 * Izquierda Diario
-* Perfil
+* Página12
 
 ### Implementación
 
