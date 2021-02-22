@@ -21,9 +21,9 @@ https://twitter.com/BotMosquito
 
 ### Algunos outputs
 
-![](https://github.com/thomasartopoulos/mosquito/blob/main/repositorio/ejemplo_clarin.jpg)
+![](https://github.com/thomasartopoulos/mosquito/blob/main/repositorio/ejemplo_clarin.jpg =250x250)
 
-![](https://github.com/thomasartopoulos/mosquito/blob/main/repositorio/relaciondepalabras_clarin.png)
+![](https://github.com/thomasartopoulos/mosquito/blob/main/repositorio/relaciondepalabras_clarin.png =250x250)
 
 ## Equipo
 
