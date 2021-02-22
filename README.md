@@ -19,6 +19,12 @@ Para la implementación del mosquito se utilizó JupyterNotebook y GoogleCollab.
 
 https://twitter.com/BotMosquito
 
+### Algunos outputs
+
+![](https://github.com/thomasartopoulos/mosquito/blob/main/repositorio/ejemplo_clarin.jpg)
+
+![](https://github.com/thomasartopoulos/mosquito/blob/main/repositorio/relaciondepalabras_clarin.png)
+
 ## Equipo
 
 * [Franco Colombini](https://github.com/frankeee)
